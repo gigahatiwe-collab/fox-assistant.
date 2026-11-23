@@ -1,2 +1,2 @@
-# fox-assistant.
+# fox-assistant
 Fox overlay assistant
